@@ -1,3 +1,7 @@
+<img width="875" height="490" alt="Screenshot 2026-09-10 001905" src="https://github.com/user-attachments/assets/ad9e8aae-6fc1-45e5-a407-3e24f6515bbc" />
+
+
+
 # 📊 Data Analytics Project
 
 ## Overview
