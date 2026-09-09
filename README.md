@@ -8,7 +8,7 @@ The objective is to transform raw data into meaningful insights and present the 
 
 ### Project Workflow
 
-**Dataset → Python → EDA → Data Cleaning → SQL Analysis → Power BI Dashboard → Report → Presentation**
+**Dataset → Python → EDA → Data Cleaning → SQL Analysis → Power BI Dashboard**
 
 ---
 
